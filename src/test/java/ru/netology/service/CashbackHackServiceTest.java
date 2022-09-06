@@ -20,7 +20,10 @@ public class CashbackHackServiceTest {
 
 
     }
+
+    @org.junit.Test
     @Test
+
 
     public void upToBoundary() {
         CashbackHackService service = new CashbackHackService();

@@ -8,7 +8,7 @@ public class CashbackHackService {
     }
 
     public int boundary(int amount) {
-        if (amount <1000) {
+        if (amount < 1000) {
             int i = boundary - amount;
             return i;
         }
